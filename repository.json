@@ -1,0 +1,5 @@
+{
+    "name":"Home Assistant TorGuard Wireguard",
+    "url":"https://github.com/PrivateRouter-LLC/hassio-repository-addon",
+    "maintainer":"PrivateRouter LLC <https://github.com/PrivateRouter-LLC>"
+}
